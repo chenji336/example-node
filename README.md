@@ -3,7 +3,6 @@
 ## Guide
 ### Travis Setup
 
-test
 
 Add the following to your `.travis.yml`:
 ```yml
